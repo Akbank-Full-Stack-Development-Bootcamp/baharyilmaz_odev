@@ -1,0 +1,16 @@
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.exe
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.deps.json
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.runtimeconfig.json
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.runtimeconfig.dev.json
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.dll
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\ref\odev_extesions.dll
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\bin\Debug\net5.0\odev_extesions.pdb
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.csprojAssemblyReference.cache
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.AssemblyInfoInputs.cache
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.AssemblyInfo.cs
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.csproj.CoreCompileInputs.cache
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.dll
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\ref\odev_extesions.dll
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.pdb
+D:\GitHub\Kodluyoruz\kodluyoruz\ödev\odev_extesions\obj\Debug\net5.0\odev_extesions.genruntimeconfig.cache
